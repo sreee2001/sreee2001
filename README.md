@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/srikanthtangella" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikanthtangella" height="30" width="40" />
     </a>
-!--
+<!--
     <a href="https://kaggle.com/sreee2001" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sreee2001" height="30" width="40" />
     </a>
