@@ -32,11 +32,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me **sreee2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srikanthtangella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikanthtangella" height="30" width="40" /></a>
-<a href="https://kaggle.com/sreee2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sreee2001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sreee2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreee2001" height="30" width="40" /></a>
-</p>
+  <p align="left">
+    <a href="https://linkedin.com/in/srikanthtangella" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikanthtangella" height="30" width="40" />
+    </a>
+!--
+    <a href="https://kaggle.com/sreee2001" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sreee2001" height="30" width="40" />
+    </a>
+-->
+    <a href="https://www.leetcode.com/sreee2001" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreee2001" height="30" width="40" />
+    </a>
+  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages:</h4>
