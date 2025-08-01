@@ -139,12 +139,13 @@ Here are some ideas to get you started:
     </a>
   </p>
 <h4 align="left">Platforms:</h4>
-<p align="left">
-</p>
-<h4 align="left">Integrated Development Libraries:</h4>
-<p align="left">
-</p>
-<p align="left">                       </p>
+  <p align="left">
+    Windows, Linux - Redhat and Debian, MacOS, XBox, PlayStation 3
+  </p>
+<h4 align="left">Integrated Development Environment:</h4>
+  <p align="left">
+    Visaul Studio, Visual Studio Code, Eclipse, Anaconda Jupyter, CodeBlocks
+  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreee2001&show_icons=true&locale=en&layout=compact" alt="sreee2001" /></p>
 
