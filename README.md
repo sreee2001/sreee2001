@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [github.com/sreee2001](github.com/sreee2001)
+- 👨‍💻 All of my projects are available at [github.com/sreee2001](https://github.com/sreee2001)
 
 - 💬 Ask me about **WPF, Entity Framework, Machine Learning**
 
