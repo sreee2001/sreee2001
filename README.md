@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 
 #### Databases
 <img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" > <img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" >
+<img src="https://img.shields.io/badge/Sql_Server-Advanced-blue" > <img src="https://img.shields.io/badge/SQL_Lite-Advanced-blue" >
+<img src="https://img.shields.io/badge/Oracle-Advanced-blue" > <img src="https://img.shields.io/badge/MySQL-Intermediate-orange" >
 
 #### Machine Learning
 
@@ -82,7 +84,7 @@ Here are some ideas to get you started:
 | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> | <img src="https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logoColor=white" alt="Proficiency">
 
 -->
-
+<!--
 <h4 align="left">Programming Languages:</h4>
   <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
@@ -135,6 +137,7 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
   </p>
+-->
 <h4 align="left">Machine Learning:</h4>
   <p align="left">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
