@@ -90,13 +90,24 @@ Here are some ideas to get you started:
 </p>
 
 #### Databases
-<img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" > <img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" >
-<img src="https://img.shields.io/badge/Sql_Server-Advanced-blue" > <img src="https://img.shields.io/badge/SQL_Lite-Advanced-blue" >
-<img src="https://img.shields.io/badge/Oracle-Advanced-blue" > <img src="https://img.shields.io/badge/MySQL-Intermediate-orange" >
+<p>
+  <a href="https://learn.microsoft.com/en-us/aspnet/entity-framework" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" ></a> 
+  <a href="https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" ></a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sql_Server-Advanced-blue" ></a> 
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL_Lite-Advanced-blue" ></a> 
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-Advanced-blue" ></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-Intermediate-orange" ></a> 
+</p>
 
 #### Machine Learning
-<img src="https://img.shields.io/badge/Pandas-Advanced-blue" > <img src="https://img.shields.io/badge/PyTorch-Advanced-blue" >
-<img src="https://img.shields.io/badge/SciKit-Advanced-blue" > <img src="https://img.shields.io/badge/Seaoorn-Advanced-blue" >
+<p>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-Advanced-blue" ></a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-Advanced-blue" ></a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-Advanced-blue" ></a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SciKit-Advanced-blue" ></a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Seaborn-Advanced-blue" ></a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/matplotlib-Advanced-blue" ></a> 
+</p>
 
 #### Platforms
 <img src="https://img.shields.io/badge/Windows-Advanced-blue" > <img src="https://img.shields.io/badge/Linux-Intermediate-orange" > <img src="https://img.shields.io/badge/MacOS-Intermediate-orange" > <img src="https://img.shields.io/badge/XBox-Intermediate-orange" > <img src="https://img.shields.io/badge/Playstation3-Proficient-yellow" >
