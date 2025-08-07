@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 #### Machine Learning
 
 #### Platforms
-<img src="https://img.shields.io/badge/Windows-Advanced-blue" >
-<img src="https://img.shields.io/badge/Linux-Intermediate-orange" > <img src="https://img.shields.io/badge/MacOS-Intermediate-orange" > <img src="https://img.shields.io/badge/XBox-Intermediate-orange" >
-<img src="https://img.shields.io/badge/Playstation3-Proficient-yellow" >
+<img src="https://img.shields.io/badge/Windows-Advanced-blue" > <img src="https://img.shields.io/badge/Linux-Intermediate-orange" > <img src="https://img.shields.io/badge/MacOS-Intermediate-orange" > <img src="https://img.shields.io/badge/XBox-Intermediate-orange" > <img src="https://img.shields.io/badge/Playstation3-Proficient-yellow" >
 
 <img src="https://img.shields.io/badge/C%23-Advanced-blue" > <img src="https://img.shields.io/badge/WPF-Advanced-blue" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" >
 
