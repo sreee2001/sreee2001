@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### Skill set
 
 #### Programming Languages
-<img src="https://img.shields.io/badge/C%23-Advanced-blue" > <img src="https://img.shields.io/badge/C++-Advanced-blue" >
+<img src="https://img.shields.io/badge/C%23-Advanced-blue" > <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-Advanced-blue" ></a>
 
 <img src="https://img.shields.io/badge/C-Intermediate-orange" > <img src="https://img.shields.io/badge/Java-Intermediate-orange" > <img src="https://img.shields.io/badge/Python-Intermediate-orange" > <img src="https://img.shields.io/badge/Bash-Intermediate-orange" > <img src="https://img.shields.io/badge/Powershell-Intermediate-orange" > 
 
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 -->
 <h4 align="left">Integrated Development Environment:</h4>
   <p align="left">
-    Visaul Studio, Visual Studio Code, Eclipse, Anaconda Jupyter, CodeBlocks
+    Visual Studio, Visual Studio Code, Eclipse, Anaconda Jupyter, CodeBlocks
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreee2001&show_icons=true&locale=en&layout=compact" alt="sreee2001" /></p>
