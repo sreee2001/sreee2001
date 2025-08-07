@@ -38,6 +38,34 @@ Here are some ideas to get you started:
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<img src="https://img.shields.io/badge/C%23-Advanced-blue" > <img src="https://img.shields.io/badge/WPF-Advanced-blue" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" >
+
+<img src="https://img.shields.io/badge/C++-Advanced-blue" > <img src="https://img.shields.io/badge/C++/STL-Advanced-blue" >
+<img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" >
+
+<img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" > <img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" >
+
+<img src="https://img.shields.io/badge/Python-Intermediate-orange" > <img src="https://img.shields.io/badge/Java-Intermediate-orange" >
+<img src="https://img.shields.io/badge/Python-Intermediate-orange" > <img src="https://img.shields.io/badge/Java-Intermediate-orange" >
+
+<img src="https://img.shields.io/badge/Perl-Proficient-yellow" ><img src="https://img.shields.io/badge/LUA-Proficient-yellow" >
+
+<!-- <img src="https://img.shields.io/badge/C%23-Advanced-blue?style=for-the-badge&logo=c%23&logoColor=white" alt="CSharp Proficiency"> -->
+<!--<img src="https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=c++&logoColor=white" alt="C++ Proficiency"> -->
+<!--
+*   C\#: <img src="https://img.shields.io/badge/CSharp-Advanced-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp Proficiency">
+*   Python: <img src="https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Proficiency">
+*   JavaScript: <img src="https://img.shields.io/badge/JavaScript-Proficient-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Proficiency">
+*   Java: <img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Proficiency">
+
+| Language  | Proficiency |
+| ------------- | ------------- |
+| <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> | <img src="https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logoColor=white" alt="Proficiency">  
+| <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> | <img src="https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logoColor=white" alt="Proficiency">
+
+-->
+
 <h4 align="left">Programming Languages:</h4>
   <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
