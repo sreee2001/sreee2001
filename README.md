@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 #### Front End
 <img src="https://img.shields.io/badge/DotNet_Framework-Advanced-blue" > <img src="https://img.shields.io/badge/DotNet_Core-Advanced-blue" > <img src="https://img.shields.io/badge/WPF-Advanced-blue" >
 
-<img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" >
-<img src="https://img.shields.io/badge/Angular-Intermediate-orange" > <img src="https://img.shields.io/badge/Azure-Intermediate-orange" >
+<img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" > <img src="https://img.shields.io/badge/Angular-Intermediate-orange" > <img src="https://img.shields.io/badge/Azure-Intermediate-orange" >
 <img src="https://img.shields.io/badge/Bootstrap-Intermediate-orange" > <img src="https://img.shields.io/badge/HTML5-Intermediate-orange" > <img src="https://img.shields.io/badge/CSS_3-Intermediate-orange" >
 <img src="https://img.shields.io/badge/Xamarin-Intermediate-orange" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" > <img src="https://img.shields.io/badge/VisualC++-Intermediate-orange" >
 
