@@ -51,12 +51,14 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Angular-Intermediate-orange" > <img src="https://img.shields.io/badge/Azure-Intermediate-orange" >
 <img src="https://img.shields.io/badge/Bootstrap-Intermediate-orange" > <img src="https://img.shields.io/badge/HTML5-Intermediate-orange" > <img src="https://img.shields.io/badge/CSS_3-Intermediate-orange" >
-<img src="https://img.shields.io/badge/Xamarin-Intermediate-orange" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" >
+<img src="https://img.shields.io/badge/Xamarin-Intermediate-orange" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" > <img src="https://img.shields.io/badge/VisualC++-Intermediate-orange" >
 
 <img src="https://img.shields.io/badge/Cocoa-Intermediate-orange" > <img src="https://img.shields.io/badge/Swift-Intermediate-orange" >
 
+<img src="https://img.shields.io/badge/WxWidgets-Proficient-yellow" > 
 
 #### Back End
+<img src="https://img.shields.io/badge/Docker-Intermediate-orange" > <img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" > <img src="https://img.shields.io/badge/Kafka-Intermediate-orange" > <img src="https://img.shields.io/badge/Postman-Intermediate-orange" >
 
 #### Databases
 
