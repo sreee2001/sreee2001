@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 <p>
   <a href="https://learn.microsoft.com/en-us/aspnet/entity-framework" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" ></a> 
   <a href="https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" ></a> 
+  <a href="https://www.entityframeworktutorial.net/entityframework6/introduction.aspx" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EF_DatabaseFirst-Intermediate-orange" ></a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sql_Server-Advanced-blue" ></a> 
   <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL_Lite-Advanced-blue" ></a> 
   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-Advanced-blue" ></a> 
