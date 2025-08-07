@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/WxWidgets-Proficient-yellow" > 
 
 #### Back End
-<img src="https://img.shields.io/badge/C++/STL-Advanced-blue" > <img src="https://img.shields.io/badge/Docker-Intermediate-orange" > <img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" > <img src="https://img.shields.io/badge/Kafka-Intermediate-orange" > <img src="https://img.shields.io/badge/Postman-Intermediate-orange" >
+<img src="https://img.shields.io/badge/C++/STL-Advanced-blue" > <img src="https://img.shields.io/badge/Web_API-Advanced-blue" > <img src="https://img.shields.io/badge/Rest_API-Advanced-blue" > <img src="https://img.shields.io/badge/Docker-Intermediate-orange" > <img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" > <img src="https://img.shields.io/badge/Kafka-Intermediate-orange" > <img src="https://img.shields.io/badge/Postman-Intermediate-orange" >
 
 #### Databases
 <img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" > <img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" >
