@@ -41,12 +41,18 @@ Here are some ideas to get you started:
 
 #### Programming Languages
 <p align-"left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-Advanced-blue" ></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-Advanced-blue" ></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-Advanced-blue" ></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-Advanced-blue" ></a>
 
-<img src="https://img.shields.io/badge/C-Intermediate-orange" > <img src="https://img.shields.io/badge/Java-Intermediate-orange" > <img src="https://img.shields.io/badge/Python-Intermediate-orange" > <img src="https://img.shields.io/badge/Bash-Intermediate-orange" > <img src="https://img.shields.io/badge/Powershell-Intermediate-orange" > 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-Intermediate-orange" ></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-Intermediate-orange" ></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-Intermediate-orange" ></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-Intermediate-orange" ></a>
+  <a href="https://www.tutorialspoint.com/powershell/index.htm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Powershell-Intermediate-orange" ></a>
 
-<img src="https://img.shields.io/badge/Perl-Proficient-yellow" > <img src="https://img.shields.io/badge/LUA-Proficient-yellow" > <img src="https://img.shields.io/badge/TCL%2FTK-Proficient-yellow" > 
+  <img src="https://img.shields.io/badge/Perl-Proficient-yellow" > <img src="https://img.shields.io/badge/LUA-Proficient-yellow" > <img src="https://img.shields.io/badge/TCL%2FTK-Proficient-yellow" > 
 </p>
+
 #### Front End
 <img src="https://img.shields.io/badge/DotNet_Framework-Advanced-blue" > <img src="https://img.shields.io/badge/DotNet_Core-Advanced-blue" > <img src="https://img.shields.io/badge/WPF-Advanced-blue" >
 
