@@ -68,17 +68,6 @@ Here are some ideas to get you started:
 #### Platforms
 <img src="https://img.shields.io/badge/Windows-Advanced-blue" > <img src="https://img.shields.io/badge/Linux-Intermediate-orange" > <img src="https://img.shields.io/badge/MacOS-Intermediate-orange" > <img src="https://img.shields.io/badge/XBox-Intermediate-orange" > <img src="https://img.shields.io/badge/Playstation3-Proficient-yellow" >
 
-
- 
-
-
-
-
-<img src="https://img.shields.io/badge/Python-Intermediate-orange" > <img src="https://img.shields.io/badge/Java-Intermediate-orange" >
-<img src="https://img.shields.io/badge/Python-Intermediate-orange" > <img src="https://img.shields.io/badge/Java-Intermediate-orange" >
-
-<img src="https://img.shields.io/badge/Perl-Proficient-yellow" ><img src="https://img.shields.io/badge/LUA-Proficient-yellow" >
-
 <!-- <img src="https://img.shields.io/badge/C%23-Advanced-blue?style=for-the-badge&logo=c%23&logoColor=white" alt="CSharp Proficiency"> -->
 <!--<img src="https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=c++&logoColor=white" alt="C++ Proficiency"> -->
 <!--
