@@ -37,9 +37,14 @@ Here are some ideas to get you started:
     <a href="https://www.leetcode.com/sreee2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreee2001" height="30" width="40" /></a>
   </p>
 
-### Languages and Tools
+### Skill set
 
 #### Programming Languages
+<img src="https://img.shields.io/badge/C%23-Advanced-blue" > <img src="https://img.shields.io/badge/C++-Advanced-blue" >
+
+<img src="https://img.shields.io/badge/C-Intermediate-orange" > <img src="https://img.shields.io/badge/Java-Intermediate-orange" > <img src="https://img.shields.io/badge/Python-Intermediate-orange" > <img src="https://img.shields.io/badge/Bash-Intermediate-orange" > <img src="https://img.shields.io/badge/Powershell-Intermediate-orange" >
+
+<img src="https://img.shields.io/badge/Perl-Proficient-yellow" > <img src="https://img.shields.io/badge/LUA-Proficient-yellow" > <img src="https://img.shields.io/badge/TCL%2FTK-Proficient-yellow" > 
 
 #### Front End
 
@@ -52,9 +57,9 @@ Here are some ideas to get you started:
 #### Platforms
 <img src="https://img.shields.io/badge/Windows-Advanced-blue" > <img src="https://img.shields.io/badge/Linux-Intermediate-orange" > <img src="https://img.shields.io/badge/MacOS-Intermediate-orange" > <img src="https://img.shields.io/badge/XBox-Intermediate-orange" > <img src="https://img.shields.io/badge/Playstation3-Proficient-yellow" >
 
-<img src="https://img.shields.io/badge/C%23-Advanced-blue" > <img src="https://img.shields.io/badge/WPF-Advanced-blue" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" >
+<img src="https://img.shields.io/badge/WPF-Advanced-blue" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" >
 
-<img src="https://img.shields.io/badge/C++-Advanced-blue" > <img src="https://img.shields.io/badge/C++/STL-Advanced-blue" >
+ <img src="https://img.shields.io/badge/C++/STL-Advanced-blue" >
 <img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" >
 
 <img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" > <img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" >
