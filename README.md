@@ -56,20 +56,38 @@ Here are some ideas to get you started:
 </p>
 
 #### Front End
-<img src="https://img.shields.io/badge/DotNet_Framework-Advanced-blue" > <img src="https://img.shields.io/badge/DotNet_Core-Advanced-blue" > <img src="https://img.shields.io/badge/WPF-Advanced-blue" >
-
-<img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" > <img src="https://img.shields.io/badge/Angular-Intermediate-orange" > <img src="https://img.shields.io/badge/Azure-Intermediate-orange" >
-<img src="https://img.shields.io/badge/Bootstrap-Intermediate-orange" > <img src="https://img.shields.io/badge/HTML5-Intermediate-orange" > <img src="https://img.shields.io/badge/CSS_3-Intermediate-orange" >
-<img src="https://img.shields.io/badge/Xamarin-Intermediate-orange" > <img src="https://img.shields.io/badge/MaUI-Intermediate-orange" > <img src="https://img.shields.io/badge/VisualC++-Intermediate-orange" >
-
-<img src="https://img.shields.io/badge/Cocoa-Intermediate-orange" > <img src="https://img.shields.io/badge/Swift-Intermediate-orange" >
-
-<img src="https://img.shields.io/badge/WxWidgets-Proficient-yellow" > 
+<p>
+  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DotNet_Framework-Advanced-blue" ></a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/overview?view=aspnetcore-9.0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DotNet_Core-Advanced-blue" ></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WPF-Advanced-blue" ></a>
+  
+  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" ></a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-Intermediate-orange" ></a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-Intermediate-orange" ></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-Intermediate-orange" ></a>
+  <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-Intermediate-orange" ></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS_3-Intermediate-orange" ></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Xamarin-Intermediate-orange" ></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-9.0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MaUI-Intermediate-orange" ></a>
+  <a href="https://www.tutorialspoint.com/mfc/mfc_vcplusplus_projects.htm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VisualC++-Intermediate-orange" ></a>
+  
+  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cocoa-Intermediate-orange" ></a>
+  <a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Swift-Intermediate-orange" ></a>
+  
+  <a href="https://wxwidgets.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WxWidgets-Proficient-yellow" ></a> 
+</p>
 
 #### Back End
-<img src="https://img.shields.io/badge/C++/STL-Advanced-blue" > <img src="https://img.shields.io/badge/Web_API-Advanced-blue" > <img src="https://img.shields.io/badge/Rest_API-Advanced-blue" >
+<p>
+  <a href="https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++/STL-Advanced-blue" ></a> 
+  <a href="https://www.w3schools.com/js/js_api_intro.asp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Web_API-Advanced-blue" ></a> 
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rest_API-Advanced-blue" ></a> 
 
-<img src="https://img.shields.io/badge/Docker-Intermediate-orange" > <img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" > <img src="https://img.shields.io/badge/Kafka-Intermediate-orange" > <img src="https://img.shields.io/badge/Postman-Intermediate-orange" >
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-Intermediate-orange" ></a> 
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" ></a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kafka-Intermediate-orange" ></a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-Intermediate-orange" ></a> 
+</p>
 
 #### Databases
 <img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" > <img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" >
