@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/WxWidgets-Proficient-yellow" > 
 
 #### Back End
-<img src="https://img.shields.io/badge/C++/STL-Advanced-blue" > <img src="https://img.shields.io/badge/Web_API-Advanced-blue" > <img src="https://img.shields.io/badge/Rest_API-Advanced-blue" > <img src="https://img.shields.io/badge/Docker-Intermediate-orange" > <img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" > <img src="https://img.shields.io/badge/Kafka-Intermediate-orange" > <img src="https://img.shields.io/badge/Postman-Intermediate-orange" >
+<img src="https://img.shields.io/badge/C++/STL-Advanced-blue" > <img src="https://img.shields.io/badge/Web_API-Advanced-blue" > <img src="https://img.shields.io/badge/Rest_API-Advanced-blue" >
+
+<img src="https://img.shields.io/badge/Docker-Intermediate-orange" > <img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" > <img src="https://img.shields.io/badge/Kafka-Intermediate-orange" > <img src="https://img.shields.io/badge/Postman-Intermediate-orange" >
 
 #### Databases
 <img src="https://img.shields.io/badge/EntityFramework-Advanced-blue" > <img src="https://img.shields.io/badge/EF_CodeFirst-Advanced-blue" >
@@ -66,6 +68,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-Advanced-blue" > <img src="https://img.shields.io/badge/MySQL-Intermediate-orange" >
 
 #### Machine Learning
+<img src="https://img.shields.io/badge/Pandas-Advanced-blue" > <img src="https://img.shields.io/badge/PyTorch-Advanced-blue" >
+<img src="https://img.shields.io/badge/SciKit-Advanced-blue" > <img src="https://img.shields.io/badge/Seaoorn-Advanced-blue" >
 
 #### Platforms
 <img src="https://img.shields.io/badge/Windows-Advanced-blue" > <img src="https://img.shields.io/badge/Linux-Intermediate-orange" > <img src="https://img.shields.io/badge/MacOS-Intermediate-orange" > <img src="https://img.shields.io/badge/XBox-Intermediate-orange" > <img src="https://img.shields.io/badge/Playstation3-Proficient-yellow" >
@@ -137,7 +141,7 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
   </p>
--->
+
 <h4 align="left">Machine Learning:</h4>
   <p align="left">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -157,6 +161,7 @@ Here are some ideas to get you started:
   <p align="left">
     Windows, Linux - Redhat and Debian, MacOS, XBox, PlayStation 3
   </p>
+-->
 <h4 align="left">Integrated Development Environment:</h4>
   <p align="left">
     Visaul Studio, Visual Studio Code, Eclipse, Anaconda Jupyter, CodeBlocks
