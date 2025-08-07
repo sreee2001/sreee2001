@@ -50,7 +50,9 @@ Here are some ideas to get you started:
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-Intermediate-orange" ></a>
   <a href="https://www.tutorialspoint.com/powershell/index.htm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Powershell-Intermediate-orange" ></a>
 
-  <img src="https://img.shields.io/badge/Perl-Proficient-yellow" > <img src="https://img.shields.io/badge/LUA-Proficient-yellow" > <img src="https://img.shields.io/badge/TCL%2FTK-Proficient-yellow" > 
+  <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Perl-Proficient-yellow" ></a>
+  <a href="https://www.tutorialspoint.com/lua/index.htm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LUA-Proficient-yellow" ></a>
+  <a href="http://www.tcl-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TCL%2FTK-Proficient-yellow" ></a>
 </p>
 
 #### Front End
