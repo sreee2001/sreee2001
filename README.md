@@ -37,6 +37,14 @@ Here are some ideas to get you started:
     <a href="https://www.leetcode.com/sreee2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreee2001" height="30" width="40" /></a>
   </p>
 
+#### Repositories
+
+I barely contribute to any online GitHub repositories in the past decade. I normally store my samples and personal work in local hard disk and Azure visual studio workspace.
+
+As more and more people are interested to see what is in my GitHub, over the next 2 - 3 years I am going to have some working demos for the Technologies I have worked and want to work.
+
+Currently there are very few repositories created. More will be added as and when I can spare some time here...
+
 ### Skill set
 
 #### Programming Languages
