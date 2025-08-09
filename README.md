@@ -47,6 +47,14 @@ Currently there are very few repositories created. More will be added as and whe
 
 ### Skill set
 
+Here I am listing my current programming skills and its proficiency
+
+| Legend | What it represents |
+|--------|--------------------|
+| ![Advanced](https://img.shields.io/badge/Advanced-blue) | <ul><li>I have mastery over the topic.</li><li>I have worked extensively in multiple components on this topic.</li><li>I can coach and mentor others.</li></ul> |
+| ![Intermediate](https://img.shields.io/badge/Intermediate-orange) | <ul><li>I have quite in-depth knowledge of some components.</li><li>I can work on most of the projects.</li><li>May need to refer to documentation once in a while.</li></ul> |
+| ![Proficient](https://img.shields.io/badge/Proficient-yellow) | <ul><li>I have basic knowledge of many components.</li><li>I can work on few selective of the projects.</li><li>May need to refer to documentation once in a while.</li><li>Will need a little learning curve to brush up fundamentals.</li><li>I either worked with this a long time ago or for a very short time.</li></ul> |
+
 #### Programming Languages
 <p align-"left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-Advanced-blue" ></a>
