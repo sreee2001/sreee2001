@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍💻 All of my projects are available at [github.com/sreee2001](https://github.com/sreee2001) -->
 
-- 💬 Ask me about **WPF, Entity Framework, Machine Learning**
+- 💬 Ask me about **C#, React, TypeScript, Entity Framework, Machine Learning, SQL**
 
 - 📫 How to reach me **sreee2001@gmail.com**
 
