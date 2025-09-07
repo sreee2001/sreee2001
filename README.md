@@ -83,6 +83,8 @@ Here I am listing my current programming skills and its proficiency
 <p>
   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DotNet_Framework-Advanced-blue" ></a>
   <a href="https://learn.microsoft.com/en-us/aspnet/core/overview?view=aspnetcore-9.0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DotNet_Core-Advanced-blue" ></a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/overview?view=aspnetcore-9.0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Asp .Net-Advanced-blue" ></a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/overview?view=aspnetcore-9.0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Razor-Advanced-blue" ></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WPF-Advanced-blue" ></a>
   
   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" ></a>
