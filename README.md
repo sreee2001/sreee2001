@@ -86,7 +86,7 @@ Here I am listing my current programming skills and its proficiency
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WPF-Advanced-blue" ></a>
   
   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++_DirectX-Intermediate-orange" ></a>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-Intermediate-orange" ></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-Intermediate-orange" ></a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-Intermediate-orange" ></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-Intermediate-orange" ></a>
   <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-Intermediate-orange" ></a>
@@ -107,6 +107,7 @@ Here I am listing my current programming skills and its proficiency
   <a href="https://www.w3schools.com/js/js_api_intro.asp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Web_API-Advanced-blue" ></a> 
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rest_API-Advanced-blue" ></a> 
 
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-Intermediate-orange" ></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-Intermediate-orange" ></a> 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jenkins-Intermediate-orange" ></a> 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kafka-Intermediate-orange" ></a> 
