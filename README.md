@@ -247,3 +247,12 @@ Here I am listing my current programming skills and its proficiency
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreee2001&" alt="sreee2001" /></p>
 -->
+
+
+# Learning Resources ( External recommended )
+
+| SVG | |
+| ------------- | ------------- |
+|[Free SVG generators, color tools & web design tools](https://www.fffuel.co/) | A free SVG creator site |
+|[Interactive SVG Reference](https://www.fffuel.co/sssvg/) | Interactively teaches about SGV elements and how to build one. I simply love it! |
+|[CSS Selectors: A Visual Guide](https://www.fffuel.co/css-selectors/) | Visually teaches CSS and how to use it |
