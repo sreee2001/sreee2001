@@ -45,6 +45,8 @@ As more and more people are interested to see what is in my GitHub, over the nex
 
 Currently there are very few repositories created. More will be added as and when I can spare some time here...
 
+[.NET & Azure Tutorial - 4 hours ⏱️](https://sreee2001.github.io/docusaurus_dotnet_overview/)
+
 [MEF repositories](https://github.com/sreee2001?tab=repositories&q=MEF&type=&language=)
 
 [WPF repositories](https://github.com/sreee2001?tab=repositories&q=WPF&type=&language=)
