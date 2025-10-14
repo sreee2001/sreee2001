@@ -51,6 +51,8 @@ Currently there are very few repositories created. More will be added as and whe
 
 [WPF repositories](https://github.com/sreee2001?tab=repositories&q=WPF&type=&language=)
 
+##### Portfolio of Website Mocks
+<img src="https://github.com/sreee2001/portfolio/blob/main/assets/screenshots/gifs/portfolio_all.gif" alt="Portfolio of different Website mocks" Width="600" />
 
 ##### A sample React/TypesSript Application.
 Visit the site here https://sreee2001.github.io/Elfshire
