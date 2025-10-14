@@ -53,16 +53,20 @@ Currently there are very few repositories created. More will be added as and whe
 
 ##### Portfolio of Website Mocks
 
+Visit the site here https://sreee2001.github.io/portfolio/
+
 <a href="https://sreee2001.github.io/portfolio/">
   <img src="https://raw.githubusercontent.com/sreee2001/portfolio/main/assets/screenshots/gifs/portfolio_all.gif" alt="Srikanth's Portfolio for Webpsite Mocks" title="Srikanth's Portfolio for Website Mocks" Width="600" />
 </a>
 
 ##### A sample React/TypesSript Application.
+
 Visit the site here https://sreee2001.github.io/Elfshire
 
 <img src="https://github.com/sreee2001/Elfshire/blob/main/screenshots/React_Demo_Elfshire.gif" alt="A sample Web page written with React and TypeScript." Width="600" />
 
 ##### A sample WPF Application written with MEF.
+
 [WPFExamples](https://github.com/sreee2001/WPFExamples)
 
 <img src="https://github.com/sreee2001/WPFExamples/blob/master/Images/WPF_Examples_Demo.gif" alt="A sample WPF Application written with MEF." Width="600" />
