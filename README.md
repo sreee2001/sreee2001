@@ -50,6 +50,8 @@ Latest Project I am working on
 > ## 🔮 Energy Price Forecasting System
 > 
 > **A production-ready ML system for forecasting energy commodity prices**
+>
+> [Repository](https://github.com/sreee2001/trading_fullstack_ai)
 > 
 > [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)]()
 > [![Epic 1](https://img.shields.io/badge/Epic%201-Complete-success)]()
