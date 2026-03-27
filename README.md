@@ -46,7 +46,23 @@ As more and more people are interested to see what is in my GitHub, over the nex
 Currently there are very few repositories created. More will be added as and when I can spare some time here...
 
 Latest Project I am working on
+
 [UML Designer (React)](https://sreee2001.github.io/UMLDesigner/)
+
+[Mobile Trading App in Android Kotlin](https://github.com/sreee2001/Android_Trading_App_POC)
+
+[React UI Features Demo](https://sreee2001.github.io/react_feature_demo/)
+
+> [💼 Multi-Tenant Payroll Management System](https://github.com/sreee2001/React_Paroll_payments)
+> 
+> **A modern, secure, and scalable payroll processing platform built with NestJS and React** ( Under active Development)
+> 
+> [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
+> [![NestJS](https://img.shields.io/badge/NestJS-10.0+-red.svg)](https://nestjs.com/)
+> [![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg)](https://reactjs.org/)
+> [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791.svg)](https://www.postgresql.org/)
+> [![Test Coverage](https://img.shields.io/badge/Coverage-76.85%25-brightgreen.svg)](./backend/COMPREHENSIVE-TEST-REPORT.md)
+> [![Tests](https://img.shields.io/badge/Tests-351%2F364-green.svg)](./backend/COMPREHENSIVE-TEST-REPORT.md)
 
 > ## 🔮 Energy Price Forecasting System
 > 
